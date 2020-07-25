@@ -5,4 +5,4 @@ I am a student of BCA(Bachelor of Computer Applications) at Gujarat University. 
 
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://raw.githubusercontent.com/archinmodi/archinmodi/master/dino.gif)
