@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Archin Modi 👋
 I am a student of BCA(Bachelor of Computer Applications) at Gujarat University. Experienced in React.Js, Nodejs, Python, VueJs, Angular 6+, Typescript, Graphql, expressJs, Git, websocket and mongoDB.
 
 ### Connect with me:
@@ -29,7 +28,18 @@ I am a student of BCA(Bachelor of Computer Applications) at Gujarat University. 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+<br/>
+
+-------------
 
 ![image](https://raw.githubusercontent.com/archinmodi/archinmodi/master/dino.gif)
+
+
+[website]: https://archinmodi.com
+[twitter]: https://twitter.com/archinmodi
+[instagram]: https://instagram.com/archinmodi
+[linkedin]: https://linkedin.com/in/archinmodi
+[webdevplaylist]: .
+[jsplaylist]: .
+[cssplaylist]: .
+[reactplaylist]: .
