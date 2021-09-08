@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archin Modi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<p>I am a student of BCA(Bachelor of Computer Applications) at Gujarat University. Experienced in React.Js, Nodejs, Python, VueJs, web socket, Angular 6+, Typescript, Graphql, expressJs, Git, websocket and mongoDB.</p>
+<p>I am a student of BCA(Bachelor of Computer Applications) at Gujarat University. 3+ year's of professional experienced in React.Js, Nodejs, Python, VueJs, web socket, Angular 6+, Typescript, Graphql, expressJs, Git, websocket and mongoDB.</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archinmodi&label=Profile%20views&color=0e75b6&style=flat" alt="archinmodi" /> </p> -->
 
