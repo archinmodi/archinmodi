@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archinmodi" alt="archinmodi" /></a> </p> -->
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [archinmodi.com/#projects](archinmodi.com/#projects)
 
