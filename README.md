@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archinmodi&label=Profile%20views&color=0e75b6&style=flat" alt="archinmodi" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archinmodi" alt="archinmodi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archinmodi" alt="archinmodi" /></a> </p> -->
 
 - 🌱 I’m currently learning **Three.js**
 
