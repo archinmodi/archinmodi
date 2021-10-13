@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [archinmodi.com/#projects](archinmodi.com/#projects)
+- 👨‍💻 All of my projects are available at [archinmodi.com/#projects](https://archinmodi.com/#projects)
 
-- 📝 I regularly write articles on [https://blog.archinmodi.com](blog.archinmodi.com)
+- 📝 I regularly write articles on [blog.archinmodi.com](https://blog.archinmodi.com)
 
 - 💬 Ask me about **react, vue.js, mobx, nodejs, web socket, ect...**
 
 - 📫 How to reach me **mail@archinmodi.com**
 
-- 📄 Know about my experiences [https://archinmodi.com/#resume](archinmodi.com/resume)
+- 📄 Know about my experiences [archinmodi.com/#resume](https://archinmodi.com/resume)
 
 - ⚡ Fun fact **I know it’s crazy, but I love to eat pizza**
 
