@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, vue.js, mobx, nodejs, web socket, ect...**
 
-- 📫 How to reach me **mail@archinmodi.com**
+- 📫 How to reach me **contact@archinmodi.com**
 
 - 📄 Know about my experiences [archinmodi.com/#resume](https://archinmodi.com/resume)
 
