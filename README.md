@@ -30,6 +30,7 @@
 <a href="https://www.interviewbit.com/profile/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/interviewbit-logo.jpg" alt="archinmodi-interviewbit"  width="40" /></a>
 <a href="https://leetcode.com/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/leetcode-logo.jpg" alt="archinmodi-leetcode"  width="40" /></a>
 <a href="https://app.hackthebox.eu/profile/741947" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/htb-logo.jpg" alt="archinmodi-hackthebox"  width="40" /></a>
+<a href="https://tryhackme.com/p/archinmodi" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/archinmodi.png" alt="TryHackMe"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
