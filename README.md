@@ -46,8 +46,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=angular,apollo,aws,bash,bootstrap,cpp,cloudflare,codepen,css,discord,docker,emotion,express,firebase,gatsby,git,github,go,graphql,heroku,html,js,jest,linux,mongodb,netlify,nextjs,nginx,nodejs,prisma,py,react,redux,sass,solidity,stackoverflow,styledcomponents,tailwind,ts,vim,vite,vscode,vue,webpack"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archinmodi&show_icons=true&locale=en&layout=compact" alt="archinmodi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archinmodi&show_icons=true&locale=en&layout=compact" alt="archinmodi" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archinmodi&show_icons=true&locale=en" alt="archinmodi" /></p>
+### Github Contribution
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archinmodi&" alt="archinmodi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=archinmodi&show_icons=true&locale=en" alt="archinmodi" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archinmodi&" alt="archinmodi" /></p>
