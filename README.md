@@ -43,8 +43,14 @@
 <a href="https://instagram.com/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archinmodi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=angular,apollo,aws,bash,bootstrap,cpp,cloudflare,codepen,css,discord,docker,emotion,express,firebase,gatsby,git,github,go,graphql,heroku,html,js,jest,linux,mongodb,netlify,nextjs,nginx,nodejs,prisma,py,react,redux,sass,solidity,stackoverflow,styledcomponents,tailwind,ts,vim,vite,vscode,vue,webpack"/>
+<h3 align="left">Frontend:</h3>
+<img src="https://skillicons.dev/icons?i=angular,apollo,bootstrap,css,emotion,gatsby,html,js,nextjs,react,redux,sass,styledcomponents,tailwind,ts,vite,vue&perline=10"/>
+
+<h3 align="left">Backend & Database:</h3>
+<img src="https://skillicons.dev/icons?i=cpp,express,go,graphql,mongodb,nodejs,prisma,py&perline=10"/>
+
+<h3 align="left">Cloud & Tools:</h3>
+<img src="https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,firebase,git,github,graphql,heroku,linux,netlify,nginx,webpack&perline=10"/>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archinmodi&show_icons=true&locale=en&layout=compact" alt="archinmodi" /></p> -->
 
