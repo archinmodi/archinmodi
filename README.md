@@ -12,15 +12,13 @@
 
 <!-- - 👨‍💻 All of my projects are available at [archinmodi.com/#projects](https://archinmodi.com/#projects) -->
 
-- 📝 I write articles on [blog.archinmodi.com](https://blog.archinmodi.com)
+<!-- - 📝 I write articles on [blog.archinmodi.com](https://blog.archinmodi.com) -->
 
-- 💬 Ask me about **react, vue.js, mobx, nodejs, web socket, ect...**
+- 💬 Ask me about **MERN, MEAN Stack related**
 
 - 📫 How to reach me **contact@archinmodi.com**
 
-- 📄 Know about my experiences [archinmodi.com/#resume](https://archinmodi.com/resume)
-
-- ⚡ Fun fact **I know it’s crazy, but I love to eat pizza**
+- 📄 Know about my experiences [archinmodi.com](https://archinmodi.com/)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -96,13 +94,13 @@
 
 
 <h3 align="left">Frontend:</h3>
-<img src="https://skillicons.dev/icons?i=angular,apollo,bootstrap,css,emotion,gatsby,html,js,nextjs,react,redux,sass,styledcomponents,tailwind,ts,vite,vue"/>
+<img src="https://skillicons.dev/icons?i=angular,apollo,bootstrap,css,emotion,gatsby,html,js,nextjs,react,redux,sass,styledcomponents,tailwind,ts,vite,vue,webpack"/>
 
 <h3 align="left">Backend & Database:</h3>
-<img src="https://skillicons.dev/icons?i=cpp,express,go,graphql,mongodb,nodejs,prisma,py"/>
+<img src="https://skillicons.dev/icons?i=cpp,express,go,graphql,mongodb,nodejs,prisma,nestjs"/>
 
 <h3 align="left">Cloud & Tools:</h3>
-<img src="https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,firebase,git,github,heroku,linux,netlify,nginx,webpack"/>
+<img src="https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,firebase,git,github,vercel,linux,netlify,nginx"/>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archinmodi&show_icons=true&locale=en&layout=compact" alt="archinmodi" /></p> -->
 
