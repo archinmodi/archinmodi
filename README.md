@@ -31,66 +31,6 @@
 <a href="https://app.hackthebox.eu/profile/741947" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=512&v=2" alt="archinmodi-hackthebox"  width="40" /></a>
 <a href="https://tryhackme.com/p/archinmodi" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/archinmodi.png" alt="TryHackMe"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://dev.to/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://twitter.com/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://linkedin.com/in/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://stackoverflow.com/users/5724267" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667"
-      alt="5724267"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://fb.com/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-  <a href="https://instagram.com/archinmodi" target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"
-      alt="archinmodi"
-      height="45"
-      width="45"
-  /></a>
-</p>
-
 
 
 <h3 align="left">Frontend:</h3>
