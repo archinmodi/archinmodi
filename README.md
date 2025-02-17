@@ -24,12 +24,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 <h3 align="left">Coding Platform:</h3>
 <a href="https://www.hackerrank.com/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/hackerrank-logo.jpg" alt="archinmodi-hackerrank"  width="40" /></a>
-<!-- <a href="https://www.interviewbit.com/profile/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/interviewbit-logo.jpg" alt="archinmodi-interviewbit"  width="40" /></a> -->
+<!-- <a href="https://www.interviewbit.com/profile/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/interviewbit-logo.jpg" alt="archinmodi-interviewbit"  width="40" /></a> --> -->
+<!--
 <a href="https://leetcode.com/archinmodi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="archinmodi-leetcode"  width="40" /></a>
 <a href="https://app.hackthebox.eu/profile/741947" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=512&v=2" alt="archinmodi-hackthebox"  width="40" /></a>
-<a href="https://tryhackme.com/p/archinmodi" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/archinmodi.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/archinmodi" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/archinmodi.png" alt="TryHackMe"></a> -->
 
 
 
