@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archin Modi</h1>
 <!-- <img src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/Black%20Technology%20LinkedIn%20Banner.png"/> -->
 <h3 align="center">A passionate software engineer from India</h3>
-<p>I am a software engineer. 4+ year's of professional experienced in React.Js, Nodejs, C++, VueJs, web socket, Angular 6+, Typescript, Graphql, expressJs, Git, websocket and mongoDB.</p>
+<p>I am a software engineer. 6+ year's of professional experienced in React.Js, Nodejs, C++, VueJs, web socket, Angular 6+, Typescript, Graphql, expressJs, Git, websocket and mongoDB.</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archinmodi&label=Profile%20views&color=0e75b6&style=flat" alt="archinmodi" /> </p> -->
 
@@ -27,7 +27,7 @@
 <!--
 <h3 align="left">Coding Platform:</h3>
 <a href="https://www.hackerrank.com/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/hackerrank-logo.jpg" alt="archinmodi-hackerrank"  width="40" /></a>
-<!-- <a href="https://www.interviewbit.com/profile/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/interviewbit-logo.jpg" alt="archinmodi-interviewbit"  width="40" /></a> --> -->
+<!-- <a href="https://www.interviewbit.com/profile/archinmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/archinmodi/archinmodi/master/logo/interviewbit-logo.jpg" alt="archinmodi-interviewbit"  width="40" /></a> --> 
 <!--
 <a href="https://leetcode.com/archinmodi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="archinmodi-leetcode"  width="40" /></a>
 <a href="https://app.hackthebox.eu/profile/741947" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=512&v=2" alt="archinmodi-hackthebox"  width="40" /></a>
