@@ -88,7 +88,7 @@ Measured > Assumed
 │                                              │
 │  🤝  Contributing to open source             │
 │                                              │
-│  ⚡  Exploring web performance               │
+│  ⚡  Exploring web performance                │
 │                                              │
 │  🤖  Learning AI Engineering                 │
 │                                              │
