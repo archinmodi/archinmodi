@@ -137,17 +137,18 @@ I'm actively interested in contributing to:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=archinmodi&show_icons=true&locale=en"
-    alt="Archin Modi GitHub Stats"
-  />
+  
 </p>
 
 <p align="center">
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=archinmodi&theme=highcontrast&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <span> </span>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=archinmodi"
-    alt="Archin Modi GitHub Streak"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=archinmodi&langs_count=4&theme=dark"
+    alt="Archin Modi GitHub Stats"
   />
+ <!-- <img src="https://github-stats-extended.vercel.app/api?username=archinmodi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=great-gatsby"  alt="Archin Modi GitHub Stats"/> -->
 </p>
 
 ---
