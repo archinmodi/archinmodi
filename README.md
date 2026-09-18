@@ -61,19 +61,20 @@ Measured > Assumed
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,angular,vue,html,css,tailwind,sass,vite,webpack"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,angular,vue,html"/>
+<img src="https://skillicons.dev/icons?i=css,tailwind,sass,vite,webpack,babel,gatsby,jest"/>
 
 ### 🔌 Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,go,prisma,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,go,python,mongodb,fastapi"/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,git,github,linux,bash,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,git,github,linux,bash,nginx,netlify"/>
 
 ### 🔬 Exploring
 
-<img src="https://skillicons.dev/icons?i=python,go,kubernetes,terraform"/>
+<img src="https://skillicons.dev/icons?i=python,kubernetes,terraform,langchain,openai"/>
 
 ---
 
