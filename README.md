@@ -1,4 +1,6 @@
 <!-- ======================= HEADER ======================= -->
+<img width="2172" height="724" alt="ChatGPT Image Sept 23 2026 from Community Contribution" src="https://github.com/user-attachments/assets/de2c981b-6cdb-45f3-96aa-a6d458c7556b" />
+
 
 <h1 align="center">
   Hey 👋 I'm Archin Modi
